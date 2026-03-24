@@ -1,8 +1,8 @@
 /*Write a class named Employee that has the following member variables: 
-Name: A string that holds the employee’s name
-ID Number: An int variable that holds the employee’s ID number 
-Department: A string that holds the name of the department where the employee works 
-Position: A string that holds the employee’s job title
+.Name: A string that holds the employee’s name
+.ID Number: An int variable that holds the employee’s ID number 
+.Department: A string that holds the name of the department where the employee works 
+.Position: A string that holds the employee’s job title
 Write appropriate mutator functions that store values in these member variables and accessor functions that
 return the values in these member variables. Once you have written the class, write a separate program that
 creates three Employee objects to hold the following data. The program should store this data in the three objects and then display the data for each employee on the
