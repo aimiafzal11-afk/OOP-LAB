@@ -1,4 +1,4 @@
-/*Write a Circle class that has the following member variables. 
+/* Write a Circle class that has the following member variables. 
 .radius: a double
 .pi: a double initialized with the value 3.14159
 The class should have the following member functions:
